@@ -187,6 +187,18 @@ student.talk(); // call the function of Person class
  
  (2:06)
  24--- Your First React Component
+ // react has components and one or more components react with each other and make a whole application
+ // component is jsx class which has state object for holding the values or state of component 
+ // and the render method which return the jsx expression and this expression is used for rendering html component from jsx virtual DOM to actual 
+ // DOM 
+ // whenever the state or jsx changes for component the babel package compare this virtual dom to actual dom and changes the real dom 
+ class Counter extends Component {
+   state: {
+
+   }
+   render(return jsx expression)
+ }
+ import the component to main js file and use it to render the object in the Children to root Element
  
  (5:20)
  26 4--- Specifying Children
