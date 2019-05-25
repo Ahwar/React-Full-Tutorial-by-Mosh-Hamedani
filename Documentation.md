@@ -1,0 +1,725 @@
+1 1--- What is React
+ people history way art world information map family government health system computer meat year thanks music person reading method data food understanding theory law bird literature problem software control knowledge power ability economics love internet television science library nature fact product idea temperature investment area society activity story industry media thing oven community definition safety quality development language management player variety video week security country exam movie organization equipment physics analysis policy series thought basis boyfriend direction strategy technology army camera freedom paper environment child instance month truth marketing university writing article department difference goal news audience fishing growth income marriage user combination failure meaning medicine philosophy teacher communication night chemistry disease disk energy nation road role soup advertising location success addition apartment education math moment painting politics attention decision event property shopping student wood competition distribution entertainment office population president unit category cigarette context introduction opportunity performance driver flight length magazine newspaper relationship teaching cell dealer finding lake member message phone scene appearance association concept customer death discussion housing inflation insurance mood woman advice blood effort expression importance opinion payment reality responsibility situation skill statement wealth application city county depth estate foundation grandmother heart perspective photo recipe studio topic collection depression imagination passion percentage resource setting ad agency college connection criticism debt description memory patience secretary solution administration aspect attitude director personality psychology recommendation response selection storage version alcohol argument complaint contract emphasis highway loss membership possession preparation steak union agreement cancer currency employment engineering entry interaction mixture preference region republic tradition virus actor classroom delivery device difficulty drama election engine football guidance hotel owner priority protection suggestion tension variation anxiety atmosphere awareness bath bread candidate climate comparison confusion construction elevator emotion employee employer guest height leadership mall manager operation recording sample transportation charity cousin disaster editor efficiency excitement extent feedback guitar homework leader mom outcome permission presentation promotion reflection refrigerator resolution revenue session singer tennis basket bonus cabinet childhood church clothes coffee dinner drawing hair hearing initiative judgment lab measurement mode mud orange poetry police possibility procedure queen ratio relation restaurant satisfaction sector signature significance song tooth town vehicle volume wife accident airport appointment arrival assumption baseball chapter committee conversation database enthusiasm error explanation farmer gate girl hall historian hospital injury instruction maintenance manufacturer meal perception pie poem presence proposal reception replacement revolution river son speech tea village warning winner worker writer assistance breath buyer chest chocolate conclusion contribution cookie courage desk drawer establishment examination garbage grocery honey impression improvement independence insect inspection inspector king ladder menu penalty piano potato profession professor quantity reaction requirement salad sister supermarket tongue weakness wedding affair ambition analyst apple assignment assistant bathroom bedroom beer birthday celebration championship cheek client consequence departure diamond dirt ear fortune friendship funeral gene girlfriend hat indication intention lady midnight negotiation obligation passenger pizza platform poet pollution recognition reputation shirt sir speaker stranger surgery sympathy tale throat trainer uncle youth time work film water money example while business study game life form air day place number part field fish back process heat hand experience job book end point type home economy value body market guide interest state radio course company price size card list mind trade line care group risk word fat force key light training name school top amount level order practice research sense service piece web boss sport fun house page term test answer sound focus matter kind soil board oil picture access garden range rate reason future site demand exercise image case cause coast action age bad boat record result section building mouse cash class nothing period plan store tax side subject space rule stock weather chance figure man model source beginning earth program chicken design feature head material purpose question rock salt act birth car dog object scale sun note profit rent speed style war bank craft half inside outside standard bus exchange eye fire position pressure stress advantage benefit box frame issue step cycle face item metal paint review room screen structure view account ball discipline medium share balance bit black bottom choice gift impact machine shape tool wind address average career culture morning pot sign table task condition contact credit egg hope ice network north square attempt date effect link post star voice capital challenge friend self shot brush couple debate exit front function lack living plant plastic spot summer taste theme track wing brain button click desire foot gas influence notice rain wall base damage distance feeling pair savings staff sugar target text animal author budget discount file ground lesson minute officer phase reference register sky stage stick title trouble bowl bridge campaign character club edge evidence fan letter lock maximum novel option pack park plenty quarter skin sort weight baby background carry dish factor fruit glass joint master muscle red strength traffic trip vegetable appeal chart gear ideal kitchen land log mother net party principle relative sale season signal spirit street tree wave belt bench commission copy drop minimum path progress project sea south status stuff ticket tour angle blue breakfast confidence daughter degree doctor dot dream duty essay father fee finance hour juice limit luck milk mouth peace pipe seat stable storm substance team trick afternoon bat beach blank catch chain consideration cream crew detail gold interview kid mark match mission pain pleasure score screw sex shop shower suit tone window agent band block bone calendar cap coat contest corner court cup district door east finger garage guarantee hole hook implement layer lecture lie manner meeting nose parking partner profile respect rice routine schedule swimming telephone tip winter airline bag battle bed bill bother cake code curve designer dimension dress ease emergency evening extension farm fight gap grade holiday horror horse host husband loan mistake mountain nail noise occasion package patient pause phrase proof race relief sand sentence shoulder smoke stomach string tourist towel vacation west wheel wine arm aside associate bet blow border branch breast brother buddy bunch chip coach cross document draft dust expert floor god golf habit iron judge knife landscape league mail mess native opening parent pattern pin pool pound request salary shame shelter shoe silver tackle tank trust assist bake bar bell bike blame boy brick chair closet clue collar comment conference devil diet fear fuel glove jacket lunch monitor mortgage nurse pace panic peak plane reward row sandwich shock spite spray surprise till transition weekend welcome yard alarm bend bicycle bite blind bottle cable candle clerk cloud concert counter flower grandfather harm knee lawyer leather load mirror neck pension plate purple ruin ship skirt slice snow specialist stroke switch trash tune zone anger award bid bitter boot bug camp candy carpet cat champion channel clock comfort cow crack engineer entrance fault grass guy hell highlight incident island joke jury leg lip mate motor nerve passage pen pride priest prize promise resident resort ring roof rope sail scheme script sock station toe tower truck witness a you it can will if many most other use make good look help go great being few might still public read keep start give human local general she specific long play feel high tonight put common set change simple past big possible particular today major personal current national cut natural physical show try check second call move pay let increase single individual turn ask buy guard hold main offer potential professional international travel cook alternative following special working whole dance excuse cold commercial low purchase deal primary worth fall necessary positive produce search present spend talk creative tell cost drive green support glad remove return run complex due effective middle regular reserve independent leave original reach rest serve watch beautiful charge active break negative safe stay visit visual affect cover report rise walk white beyond junior pick unique anything classic final lift mix private stop teach western concern familiar fly official broad comfortable gain maybe rich save stand young fail heavy hello lead listen valuable worry handle leading meet release sell finish normal press ride secret spread spring tough wait brown deep display flow hit objective shoot touch cancel chemical cry dump extreme push conflict eat fill formal jump kick opposite pass pitch remote total treat vast abuse beat burn deposit print raise sleep somewhere advance anywhere consist dark double draw equal fix hire internal join kill sensitive tap win attack claim constant drag drink guess minor pull raw soft solid wear weird wonder annual count dead doubt feed forever impress nobody repeat round sing slide strip whereas wish combine command dig divide equivalent hang hunt initial march mention smell spiritual survey tie adult brief crazy escape gather hate prior repair rough sad scratch sick strike employ external hurt illegal laugh lay mobile nasty ordinary respond royal senior split strain struggle swim train upper wash yellow convert crash dependent fold funny grab hide miss permit quote recover resolve roll sink slip spare suspect sweet swing twist upstairs usual abroad brave calm concentrate estimate grand male mine prompt quiet refuse regret reveal rush shake shift shine steal suck surround anybody bear brilliant dare dear delay drunk female hurry inevitable invite kiss neat pop punch quit reply representative resist rip rub silly smile spell stretch stupid tear temporary tomorrow wake wrap yesterday The SKESL System TERMS OF USE CONTACT PRIVACY POLICY
+ A Defiant Homeless Q Adorable Delightful Homely Quaint Adventurous Depressed Horrible R Aggressive Determined Hungry Real Agreeable Different Hurt Relieved Alert Difficult I Repulsive Alive Disgusted Ill Rich Amused Distinct Important S Angry Disturbed Impossible Scary Annoyed Dizzy Inexpensive Selfish Annoying Doubtful Innocent Shiny Anxious Drab Inquisitive Shy Arrogant Dull Itchy Silly Ashamed E J Sleepy Attractive Eager Jealous Smiling Average Easy Jittery Smoggy Awful Elated Jolly Sore B Elegant Joyous Sparkling Bad Embarrassed K Splendid Beautiful Enchanting Kind Spotless Better Encouraging L Stormy Bewildered Energetic Lazy Strange Black Enthusiastic Light Stupid Bloody Envious Lively Successful Blue Evil Lonely Super Blue---eyed Excited Long T Blushing Expensive Lovely Talented Bored Exuberant Lucky Tame Brainy F M Tender Brave Fair Magificent Tense Breakable Faithful Misty Terrible Bright Famous Modern Tasty Busy Fancy Motionless Thankful C Fantastic Muddy Thoughtful Calm Fierce Mushy Thoughtless Careful Filthy Mysterious Tired Cautious Fine N Tough Charming Foolish Nasty Troubled Cheerful Fragile Naughty U Clean Frail Nervous Ugliest Clear Frantic Nice Ugly Clever Friendly Nutty Uninterested Cloudy Frightened O Unsightly Clumsy Funny Obedient Unusual Colorful G Obnoxious Upset Combative Gentle Odd Uptight Comfortable Gifted Old---fashioned V Concerned Glamorous Open Vast Condemned Gleaming Outrageous Victorious Confused Glorious Outstanding Vivacious Cooperative Good P W Courageous Gorgeous Panicky Wandering Crazy Graceful Perfect Weary Creepy Grieving Plain Wicked Crowded Grotesque Pleasant Wide---eyed Cruel Grumpy Poised Wild Curious H Poor Witty Cute Handsome Powerful Worrisome D Happy Precious Worried Dangerous Healthy Prickly Wrong Dark Helpful Proud Z Dead Helpless Puzzled Zany Defeated Hilarious Zealous
+ (4:32)
+ 2 2--- Setting Up the Development Environment
+ 
+ (3:37)
+ 3 3--- Your First React App
+ 
+ (6:33)
+ 4 4--- Hello World
+ 
+ (5:25)
+ 5 5--- Custom Configs
+ 
+ (3:11)
+ 6--- Full---stack Architecture (2:44)
+ // for backend u can use asp.net , nodejs + express or firebase i.e firebas is not a programing language
+ // the best option is to use nodejs and express and for backend database use MongoDB
+ // firebase is the server made by Google provide less control and customization on server side but it is easy for use overall and for developers
+ // nodejs and express are highly customizable and provide full control of server to the company and it is less easy for developers and for the beginners
+ 7--- Course Structure (2:24)
+ // javascript > Components > Table > Form > Routing > http Services > Authentication > Deployment
+ 8--- Redux?
+ 8--- Introduction (1:43)
+ // this will tell about javascript concepts essential for React
+
+ 9--- Let vs Var vs Const
+ // scopes
+ // var has scope in Function
+ // let has block scope 
+ // Const has block scope
+ //prefer always the let 
+ // only use var when it has necessary role
+
+ (3:52)
+ 10--- Objects (2:45)
+ // declare the Object
+ // const person = { "name": name, walk: function() { statement }, talk() { statement }}
+ // Function declared in Object is called as Method
+ // access the values
+ // ObjectName.keyName
+ // ObjectName['keyName']
+ 11--- The this Keyword
+ const person = { talk() { console.log('obj reference ' + this) }}
+ // if we call the talk function then it will console the reference to that Object
+ person.talk() // output the reference to the Object
+ // but in javascript this don't behave same everytime
+  var talk_ = person.talk; // take the reference of the person.talk function
+ talk_() // this will not reference the person object but it will reference the window object 
+ // because this is now standalone object therefore it will reference window Default object 
+ 
+ (2:49)
+ 12--- Binding this
+ //in the above example when we use the reference of method of a object to make a new function then when we call the new function 
+ // then it does not reference to previous person object 
+ // we can still insist the new function to bind it self to previous function so that the new function stil reference to previous object
+ // use the above statement with the function Named bind
+ // var talk_ = person.talk.bind(person); // 
+ // when taking the reference of a method to create a  new function the object name in Parameter in bind function will bind that object to new function and everytime this Keyword called then it refer to object
+ 
+ (2:36)
+ 13--- Arrow Functions
+ // arrow function is another way to create a function or method realeased in ECMA6 
+ // the function declared in previous way:
+ const square = function( number ) { return number * number} // a function declare in old way takes a number and returns the square of that function
+ // the function declared in new way by arrow function
+ const square = ( number ) => { return number * number}
+ // if we have single one argument and single executable statement then we can use arrow function in following way
+ const square2 = number => number * number
+
+ jobs = [
+  { id: 1, isActive: true },
+  { id: 2, isActive: false },
+  { id: 3, isActive: true }
+];
+activeJobs = jobs.filter(job => {
+  return job.isActive;
+});
+ 
+ (4:15)
+ 14--- Arrow Functions and this
+ // arrow function does not bind this Keyword
+ const object1 = {
+  talk() {
+    setTimeout(function() {
+      console.log("this: ", this);
+    }, 1000);
+  }
+};
+object1.talk();
+ 
+ 
+ (4:14)
+ 15--- Array.map Method
+ //map is the method of js arrays which iterate automatically on every member of that Array and perform the function passed as argument
+ colors = ["red", "green", "blue", "yellow"];
+colors.map(color => {
+  console.log(color);
+});
+ //that above map method iterate on every member of colors array and pass every member as argument in the function and perform calculations on it
+ 
+ (3:36)
+ 16--- Object Destructuring
+ // for example there is an address object
+ address = {
+  city: "lahore",
+  street: "5A",
+  state: "punjab"
+};
+// you can get the values of object Attributes one by one with dot notation or you can use object Destructuring
+// syntax const 
+{keyName, keyName} = object
+const {city, street:st, state} = address
+// street:st is used to the Variable street a new name : st 
+ 
+ (2:29)
+ 17--- Spread Operator
+ // spread operator ( ... ) is the operator to copy the array or object
+ arr1 = [1, 2, 3]
+ arr3 = [...arr1]
+ console.log("copy of the array is ", arr3) // the output will be [1, 2, 3]
+ 
+ (4:02)
+ 18--- Classes
+
+
+ //classes is the blueprint to model the real world object in programing language 
+ // it has some properties like Variables and as well as Functions
+class student {
+  name = "";
+  constructor(name) {  // this is constructor it is the function always gets called when new object get created
+    this.name = name;
+  }
+  talk() {
+    console.log("The name is : ", this.name);
+  }
+}
+// create the object of Person Class
+let student = new Student("Ahwar");   // make a new object with constructor 
+student.talk(); // call the function of Person class 
+ 
+ (3:45)
+ 19--- Inheritance
+ // Inheritance is the process of inheriting ( getting or copying) the Attributes and Functions from other class
+ // In other words if you have already declared an class before and you want to use the function or Attributes to another class you can inherit 
+ // Attributes and function from previously declared class to new class 
+ // syntax
+ // class NewClass extends OldClass {}    // extends Keyword is used for Inheritance
+ // we have already declared a Student class and we can use this class to create a new class Teacher
+ class Teacher extends Student {
+   // this Teacher class inherit all the function and Attributes from Student class you can use all the Functions of Student class and even create a new things in Teacher class
+   // constructor(name, degree) {
+     super(name) // self function is used to call the constructor of the parent class // actually constructor is used for acessing and calling the Functions of parent class
+     this.degree = degree;
+   }
+ }
+ (4:03)
+ 20--- Modules
+ // when the number of classes increase in the main js file then it become complicated and to reduce this complexity we can devide the classes into seperate files this is called as Modules
+ // take the definition of a class and save it in another file when we make a new file then all the code described is private to make this public you should Export the class by prefixing the class name with keyword export
+ // export class Teacher {}
+ // the file where you want to import this class you can use import statement in main file 
+ import Teacher from 'class module file path' 
+ (4:11)
+ 21--- Named and Default Exports
+ // Named Exports >> In the module file if we have more then one object then we have to prefix every object with Export keyword so this is called as Named Export and for importing the named object we have to import it by calling it's name
+ // Default Export >> in the module file if we have only one object so for exoprting it we can prefix it with export default 
+ // Importing named export >> import {Teacher , Student} from '';
+ // Importing default export >> import Teacher from ''; // note that in this we don't use curly brackets
+ 
+
+ 
+ (5:15)
+ 22--- Introduction
+ // in the introduction section we are going to use reactjs to make a shopping cart 
+ 
+ (1:38)
+ 23--- Setting Up the Project
+ // install the reactjs nodejs libraries
+ $ npm i -g create-react-app 
+ $ create-react-app app_name
+ $ cd app_name 
+ $ npm start // it will start npm local server host
+ $ npm i bootstrap@4.1.1 you can remove @version-number to install latest available library
+ import 'bootstrap/dist/css/bootstrap.css' // import the bootstrap file in index.js
+ 
+ (2:06)
+ 24--- Your First React Component
+ 
+ (5:20)
+ 26 4--- Specifying Children
+ 
+ (4:16)
+ 27 5--- Embedding Expressions
+ 
+ (4:50)
+ 28 6--- Setting Attributes
+ 
+ (5:45)
+ 29 7--- Rendering Classes Dynamically
+ 
+ (4:18)
+ 30 8 --- Rendering Lists
+ 
+ (3:58)
+ 31 9--- Conditional Rendering
+ 
+ (6:04)
+ 32 10--- Handling Events
+ 
+ (2:49)
+ 33 11--- Binding Event Handlers
+ 
+ (4:36)
+ 34 12--- Updating the State
+ 
+ (2:14)
+ 35 13--- What Happens When State Changes
+ 
+ (2:04)
+ 36 14--- Passing Event Arguments
+ 
+ (3:04)
+ 37 15--- Setting Up the Vidly Project
+ 
+ (5:38)
+ 38 16--- Exercises
+ 
+ (3:25)
+ 39 17--- Building the Movies Component
+ 
+ (7:18)
+ 40 18--- Deleting a Movie
+ 
+ (5:18)
+ 41 19--- Conditional Rendering
+ 
+ (3:26)
+ 42 20 --- Summary
+ 
+ (0:36)
+ 43 1--- Introduction
+ 
+ (0:45)
+ 44 2--- Composing Components
+ 
+ (3:45)
+ 45 3--- Passing Data to Components
+ 
+ (3:11)
+ 46 4--- Passing Children
+ 
+ (3:10)
+ 47 5 --- Debugging React Apps
+ 
+ (4:09)
+ 48 6--- Props vs State
+ 
+ (2:24)
+ 49 7 --- Raising and Handling Events
+ 
+ (4:52)
+ 50 8--- Updating the State
+ 
+ (4:38)
+ 51 9--- Single Source of Truth
+ 
+ (3:55)
+ 52 10--- Removing the Local State
+ 
+ (6:47)
+ 53 11--- Multiple Components in Sync
+ 
+ (5:53)
+ 54 12--- Lifting the State Up
+ 
+ (5:36)
+ 55 13 --- Stateless Functional Components
+ 
+ (2:29)
+ 56 14--- Destructuring Arguments
+ 
+ (2:00)
+ 57 15 --- Lifecycle Hooks
+ 
+ (1:38)
+ 58 16 --- Mounting Phase
+ 
+ (5:34)
+ 59 17--- Updating Phase
+ 
+ (4:20)
+ 60 18--- Unmounting Phase
+ 
+ (1:26)
+ 61 19--- Exercise--- Decrement Button
+ 
+ (1:05)
+ 62 20--- Solution --- Decrement Button
+ 
+ (4:53)
+ 63 21--- Exercise--- Like Component
+ 
+ (1:44)
+ 64 22--- Solution--- Like Component
+ 
+ (12:26)
+ 65 23--- Summary
+ 
+ (0:42)
+ 66 1--- Introduction
+ 
+ (1:08)
+ 67 2--- Exercise--- Pagination Component
+ 
+ (1:01)
+ 68 3--- Pagination--- Component Interface
+ 
+ (3:47)
+ 69 4--- Pagination--- Displaying Pages
+ 
+ (6:48)
+ 70 5--- Pagination--- Handling Page Changes
+ 
+ (5:49)
+ 71 6--- Pagination--- Paginating Data
+ 
+ (6:14)
+ 72 7--- Pagination--- Type Checking with PropTypes
+ 
+ (4:56)
+ 73 8--- Exercise--- ListGroup Component
+ 
+ (1:24)
+ 74 9--- Filtering--- Component Interface
+ 
+ (5:32)
+ 75 10--- Filtering--- Displaying Items
+ 
+ (3:57)
+ 76 11--- Filtering--- Default Props
+ 
+ (2:06)
+ 77 12--- Filtering--- Handling Selection
+ 
+ (4:20)
+ 78 13--- Filtering--- Implementing Filtering
+ 
+ (2:59)
+ 79 14--- Filtering--- Adding All Genres
+ 
+ (3:39)
+ 80 15--- Sorting--- Extracting MoviesTable
+ 
+ (5:19)
+ 81 16--- Sorting--- Raising the Sort Event
+ 
+ (3:28)
+ 82 17--- Sorting--- Implementing Sorting
+ 
+ (5:13)
+ 83 18--- Sorting--- Moving Responsibility
+ 
+ (5:15)
+ 84 19--- Sorting--- Extracting TableHeader
+ 
+ (7:44)
+ 85 20--- Sorting--- Extracting TableBody
+ 
+ (3:12)
+ 86 21--- Sorting--- Rendering Cell Content
+ 
+ (8:02)
+ 87 22--- Sorting--- Unique Keys --- Final
+ 
+ (2:58)
+ 88 23--- Sorting--- Adding the Sort Icon
+ 
+ (3:57)
+ 89 24--- Sorting--- Extracting Table
+ 
+ (3:51)
+ 90 25--- Sorting--- Extracting a Method
+ 
+ (3:18)
+ 91 26--- Destructuring Arguments
+ 
+ (0:58)
+ 92 27--- Summary
+ 
+ (0:51)
+ 93 A Quick Note
+ 94 1--- Introduction
+ 
+ (0:33)
+ 95 2--- Setup
+ 
+ (1:46)
+ 96 3--- Adding Routing
+ 
+ (4:15)
+ 97 4--- Switch
+ 
+ (2:26)
+ 98 5--- Link
+ 
+ (4:20)
+ 99 6--- Route Props
+ 
+ (2:10)
+ 100 7--- Passing Props
+ 
+ (2:35)
+ 101 8--- Route Parameters
+ 
+ (3:32)
+ 102 9--- Optional Parameters
+ 
+ (2:06)
+ 103 10--- Query String Parameters
+ 
+ (3:51)
+ 104 11--- Redirects
+ 
+ (3:06)
+ 105 12--- Programmatic Navigation
+ 
+ (2:20)
+ 106 13--- Nested Routing
+ 
+ (4:35)
+ 107 14--- Exercises--- NavBar and Routing
+ 
+ (1:43)
+ 108 15--- Adding React Router
+ 
+ (1:26)
+ 109 16--- Adding Routes
+ 
+ (4:57)
+ 110 17--- Adding the NavBar
+ 
+ (4:39)
+ 111 18--- Linking to the MovieForm
+ 
+ (4:42)
+ 112 19 --- Summary
+ 
+ (0:31)
+ 113 1--- Introduction
+ 
+ (0:38)
+ 114 2--- Building a Bootstrap Form
+ 
+ (5:34)
+ 115 3--- Handling Form Submission
+ 
+ (2:00)
+ 116 4--- Refs
+ 
+ (3:58)
+ 117 5--- Controlled Elements
+ 
+ (4:32)
+ 118 6--- Handling Multiple Inputs
+ 
+ (2:49)
+ 119 7--- Common Errors
+ 
+ (2:28)
+ 120 8--- Extracting a Reusable Input
+ 
+ (3:57)
+ 121 9--- Validation
+ 
+ (2:56)
+ 122 10--- A Basic Validation Implementation
+ 
+ (3:11)
+ 123 11--- Displaying Validation Errors
+ 
+ (3:42)
+ 124 12--- Validation on Change
+ 
+ (4:19)
+ 125 13--- Joi
+ 
+ (4:33)
+ 126 14--- Validating a Form Using Joi
+ 
+ (4:43)
+ 127 15--- Validating a Field Using Joi
+ 
+ (5:22)
+ 128 16--- Disabling the Submit Button
+ 
+ (1:11)
+ 129 17--- Code Review
+ 
+ (3:13)
+ 130 18--- Extracting a Reusable Form
+ 
+ (4:51)
+ 131 19--- Extracting Helper Rendering Methods
+ 
+ (8:18)
+ 132 20--- Register Form
+ 
+ (1:42)
+ 133 21--- Code Review
+ 
+ (1:10)
+ 134 22--- Exercise 2--- Movie Form
+ 
+ (3:18)
+ 135 23--- Code Review
+ 
+ (8:24)
+ 136 24--- Exercise 3--- Search Movies
+ 
+ (1:22)
+ 137 25--- Code Review
+ 
+ (5:12)
+ 138 1--- Introduction
+ 
+ (1:13)
+ 139 2--- JSON Placeholder
+ 
+ (2:54)
+ 140 3--- Http Clients
+ 
+ (2:56)
+ 141 4--- Getting Data
+ 
+ (5:26)
+ 142 5--- Creating Data
+ 
+ (4:52)
+ 143 6--- Lifecycle of a Request
+ 
+ (2:50)
+ 144 7--- Updating Data
+ 
+ (4:14)
+ 145 8--- Deleting Data
+ 
+ (1:35)
+ 146 9--- Optimistic vs Pessimistic Updates
+ 
+ (4:24)
+ 147 10--- Expected vs Unexpected Errors
+ 
+ (6:40)
+ 148 11--- Handling Unexpected Errors Globally
+ 
+ (7:54)
+ 149 12--- Extracting a Reusable Http Service
+ 
+ (3:43)
+ 150 13--- Extracting a Config Module
+ 
+ (1:36)
+ 151 14--- Displaying Toast Notifications
+ 
+ (2:56)
+ 152 15--- Logging Errors
+ 
+ (5:47)
+ 153 16--- Extracting a Logger Service
+ 
+ (4:25)
+ 154 17--- Vidly Backend
+ 
+ (1:50)
+ 155 18--- Installing MongoDB on Mac
+ 
+ (3:58)
+ 156 19--- Installing MongoDB on Windows
+ 
+ (5:39)
+ 157 20--- Setting Up the Node Backend
+ 
+ (2:44)
+ 158 21--- Disabling Authentication
+ 
+ (4:01)
+ 159 22--- Exercise--- Connect Movies Page to the Backend
+ 
+ (1:56)
+ 160 23--- Adding Http and Log Services
+ 
+ (2:38)
+ 161 24--- Replacing FakeGenreService
+ 
+ (3:23)
+ 162 25--- Replacing FakeMovieService
+ 
+ (5:48)
+ 163 26--- Extracting a Config File
+ 
+ (1:54)
+ 164 27--- Exercise--- Connect Movie Form to the Backend
+ 
+ (0:56)
+ 165 28--- Populating the Form
+ 
+ (3:45)
+ 166 29--- Refactoring
+ 
+ (2:30)
+ 167 30--- Saving the Movie
+ 
+ (2:40)
+ 168 31--- Refactoring
+ 
+ (2:36)
+ 169 1 --- Introduction
+ 
+ (0:49)
+ 170 2--- Registering a New User
+ 
+ (2:37)
+ 171 3--- Submitting the Registration Form
+ 
+ (4:30)
+ 172 4--- Handling Registration Errors
+ 
+ (1:58)
+ 173 5--- Logging in a User
+ 
+ (1:43)
+ 174 6--- Submitting the Login Form
+ 
+ (2:23)
+ 175 7--- Handling Login Errors
+ 
+ (1:51)
+ 176 8--- Storing the JWT
+ 
+ (3:04)
+ 177 9--- Logging in the User upon Registration
+ 
+ (5:37)
+ 178 10--- JSON Web Tokens (JWT)
+ 
+ (3:59)
+ 179 11--- Getting the Current User
+ 
+ (4:18)
+ 180 12--- Displaying the Current User on NavBar
+ 
+ (4:48)
+ 181 13--- Logging out a User
+ 
+ (2:44)
+ 182 14--- Refactoring
+ 
+ (10:03)
+ 183 15--- Calling Protected API Endpoints
+ 
+ (4:10)
+ 184 16--- Fixing Bi---directional Dependencies
+ 
+ (2:43)
+ 185 17--- Authorization
+ 
+ (6:30)
+ 186 18--- Showing or Hiding Elements based on the User
+ 
+ (2:40)
+ 187 19--- Protecting Routes
+ 
+ (2:50)
+ 188 20--- Extracting ProtectedRoute
+ 
+ (5:55)
+ 189 21--- Redirecting after Login
+ 
+ (5:40)
+ 190 22--- Exercise
+ 
+ (0:19)
+ 191 23--- Hiding the Delete Column
+ 
+ (4:19)
+ 192 1--- Introduction
+ 
+ (0:38)
+ 193 2--- Environment Variables
+ 
+ (4:58)
+ 194 3--- Production Builds
+ 
+ (2:48)
+ 195 4--- Getting Started with Heroku
+ 
+ (2:06)
+ 196 5--- MongoDB in the Cloud
+ 
+ (2:35)
+ 197 6--- Adding Code to a Git Repository
+ 
+ (3:05)
+ 198 7--- Deploying to Heroku
+ 
+ (3:01)
+ 199 8--- Viewing Logs
+ 
+ (2:40)
+ 200 9--- Setting Environment Variables on Heroku
+ 
+ (4:37)
+ 201 10--- Preparing the Font---end for Deployment
+ 
+ (4:09)
+ 202 11--- Deploying the Front---end
+ 
+ (2:38)
+ 203 12--- A Story
+ 
+ (2:36)
+ 204 13--- Wrap Up
+ 205 14--- What to Learn Next
