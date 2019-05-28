@@ -201,7 +201,16 @@ student.talk(); // call the function of Person class
  import the component to main js file and use it to render the object in the Children to root Element
  
  (5:20)
- 26 4--- Specifying Children
+ 25--- Specifying Children
+ // you can add one or more html Elements and Components under one component which will be called as children of these components 
+ <h1>Hello World</h1>
+ <button>Increment</button>
+ // we cannot add two component children consecutively there must be only one Element in render Method 
+ // so we wrap all Element in an predefined Element name React.Element
+  <React.Fragment>
+    <h1>Hello World</h1>
+    <button>Increment</button>
+  </React.Fragment>
  
  (4:16)
  27 5--- Embedding Expressions
