@@ -239,7 +239,13 @@ student.talk(); // call the function of Person class
  // in this we rander the classses names Dynamically according to the value of state count 
  // the value of count is 0 then make this badge-warning and if count is not zero then make it badge-primary
  (4:18)
- 30 8 --- Rendering Lists
+ 29 --- Rendering Lists
+ // if you have a array of element or variables then you can render them in list or grid element for example for below 
+ tags = ['tag', 'tag2', 'tag3']
+ // because react is not template library we can not use the loop
+ // we can apply map function on the tags list and render every array element as li html tag
+ // one thing necessary is that every li element must have key Attribute with unique value
+
  
  (3:58)
  31 9--- Conditional Rendering

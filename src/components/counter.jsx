@@ -3,7 +3,8 @@ import React, { Component } from "react";
 class Counter extends Component {
   state = {
     // state to hold data about any component
-    count: 0
+    count: 0,
+    tags: ["tag1", "tag2", "tag3"]
   };
 
   render() {
@@ -11,9 +12,15 @@ class Counter extends Component {
       <React.Fragment>
         <span className={this.getBadgeClasses()}>{this.formatCount()}</span>
         <button className="btn btn-secondary btn-sm">Increment</button>
+        <ul>
+          {this.state.tags.map(tag => {
+            return <li key={tag}>{tag}</li>;
+          })}
+        </ul>
       </React.Fragment>
     );
   }
+
   // check the state count property and return value according to that value
   formatCount() {
     const { count } = this.state;
