@@ -236,7 +236,8 @@ student.talk(); // call the function of Person class
  
  (5:45)
  28--- Rendering Classes Dynamically
- 
+ // in this we rander the classses names Dynamically according to the value of state count 
+ // the value of count is 0 then make this badge-warning and if count is not zero then make it badge-primary
  (4:18)
  30 8 --- Rendering Lists
  

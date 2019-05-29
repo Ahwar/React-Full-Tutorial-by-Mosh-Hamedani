@@ -9,7 +9,7 @@ class Counter extends Component {
   render() {
     return (
       <React.Fragment>
-        <span className="badge badge-primary m-3">{this.formatCount()}</span>
+        <span className={this.getBadgeClasses()}>{this.formatCount()}</span>
         <button className="btn btn-secondary btn-sm">Increment</button>
       </React.Fragment>
     );
@@ -18,6 +18,12 @@ class Counter extends Component {
   formatCount() {
     const { count } = this.state;
     return count === 0 ? "zero" : count; // state count is 0 then return zero otherwise return the original count state
+  }
+  // return classes according to value of count state
+  getBadgeClasses() {
+    let classes = "badge m-2 badge-";
+    classes += this.state.count === 0 ? "warning" : "primary";
+    return classes;
   }
 }
 
