@@ -213,7 +213,18 @@ student.talk(); // call the function of Person class
   </React.Fragment>
  
  (4:16)
- 27 5--- Embedding Expressions
+ 26--- Embedding Expressions
+ // this cnapter is all about filing Element and data in to the components Dynamically 
+ // every component object can have a property called as state this state is an object that holds the data about this component 
+ // and because the code between return render method is jsx expression then we can access the state value anywhere in jsx expression as expression
+ // the state can be declared as 
+ state = {
+   count: 1
+ }
+ if you want to use this.state.count value any where in jsx expression then you can use like
+ render() {   // it will render the value of state into any component
+   <h1>{this.state.count}</h1> // {} braces are must to add value in regular expression
+ }
  
  (4:50)
  28 6--- Setting Attributes
