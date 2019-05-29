@@ -227,10 +227,15 @@ student.talk(); // call the function of Person class
  }
  
  (4:50)
- 28 6--- Setting Attributes
+ 27--- Setting Attributes
+ // you can add Attributes to jsx Element expression
+ // for example to add the new class in html component you can set it by using Attributes name className="class_name"
+ // you can also set styles by using sytle Attribute and this take value as object 
+ <p style={ fontSize: 32, fontFamily: "roboto"  }></p>
+ // as you can notice style Attribute get the value as object and the key of object is styleProperty which is standard html style Attribute written in camelCase and value of property as the value of key
  
  (5:45)
- 29 7--- Rendering Classes Dynamically
+ 28--- Rendering Classes Dynamically
  
  (4:18)
  30 8 --- Rendering Lists
