@@ -248,7 +248,14 @@ student.talk(); // call the function of Person class
 
  
  (3:58)
- 31 9--- Conditional Rendering
+ 30--- Conditional Rendering
+ // Conditional rendering is rendering a specific html Element if certain condition is satisfied for example rendering a list if there are more then 1 element in a array
+ // in the render method of react component we can use the conditional statement like if-else because react is not template language 
+ // we can call other function of component and we can call if-else statement in that function 
+ // if we have two or more Expressions combined with AND ( && ) operator and all Expressions are truthy then the java vm output the result of last result for example
+ true && 'hello' && 'print'
+ output: 'print'
+ // we can also use that as if statement 
  
  (6:04)
  32 10--- Handling Events
