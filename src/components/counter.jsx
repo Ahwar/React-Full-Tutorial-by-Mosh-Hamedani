@@ -29,7 +29,7 @@ class Counter extends Component {
 
   handleIncrement = () => {
     // use arrow function so that we can access reference to the object using this
-    console.log("handle Increment", this);
+    this.setState({ count: this.state.count + 1 });
   };
   renderTags() {
     if (this.state.tags.length === 0) return <p>there is not tag</p>;

@@ -280,7 +280,11 @@ student.talk(); // call the function of Person class
   console.log("handle Increment", this);
 };
  (4:36)
- 34 12--- Updating the State
+ 33--- Updating the State
+ // because now we have access to this reference we can change the state of the object 
+ // react has a function name setState which take as Parameter a expression 
+ this.setState({newOrExistingState: newValue});
+ this will set the state of this component
  
  (2:14)
  35 13--- What Happens When State Changes
