@@ -1,6 +1,11 @@
 import React, { Component } from "react";
 
 class Counter extends Component {
+  // constructor to bind this reference to the function
+  // constructor() {
+  //   super();
+  //   this.handleIncrement = this.handleIncrement.bind();
+  // }
   state = {
     // state to hold data about any component
     count: 0,
@@ -22,9 +27,10 @@ class Counter extends Component {
     );
   }
 
-  handleIncrement() {
-    console.log("handle Increment");
-  }
+  handleIncrement = () => {
+    // use arrow function so that we can access reference to the object using this
+    console.log("handle Increment", this);
+  };
   renderTags() {
     if (this.state.tags.length === 0) return <p>there is not tag</p>;
     return (

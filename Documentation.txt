@@ -267,8 +267,18 @@ student.talk(); // call the function of Person class
   <button onClick={this.handleButton}></button> // pass the reference of the handleButton function so that when user click on button then the function handleButton is called
  
  (2:49)
- 33 11--- Binding Event Handlers
- 
+ 32--- Binding Event Handlers
+ // if in simple handleButton function we want to access this reference to current object it is not possible because it is standalone function and in js if function is standalone then it can't reference to object using this
+ // we can bind the function with this using bind function in constructor
+ constructor() {
+   super();
+   this.handleButton = this.handleButton.bind();
+ }
+ // we can also use this if we declare the handleButton function as arrow function 
+  handleIncrement = () => {
+  // use arrow function so that we can access reference to the object using this
+  console.log("handle Increment", this);
+};
  (4:36)
  34 12--- Updating the State
  
