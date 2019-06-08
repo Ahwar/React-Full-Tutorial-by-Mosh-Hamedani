@@ -256,9 +256,15 @@ student.talk(); // call the function of Person class
  true && 'hello' && 'print'
  output: 'print'
  // we can also use that as if statement 
- 
+
  (6:04)
- 32 10--- Handling Events
+ 31--- Handling Events
+ // handling Events is defining what type of statement and instruction will be execuated when somekind of event will occure 
+ // for example the onClick handler define what type of statement or instruction will be executed when user click on that element 
+ function handleButton() {
+   console.Log("button is clicked")
+ }
+  <button onClick={this.handleButton}></button> // pass the reference of the handleButton function so that when user click on button then the function handleButton is called
  
  (2:49)
  33 11--- Binding Event Handlers
