@@ -265,7 +265,7 @@ student.talk(); // call the function of Person class
    console.Log("button is clicked")
  }
   <button onClick={this.handleButton}></button> // pass the reference of the handleButton function so that when user click on button then the function handleButton is called
- 
+
  (2:49)
  32--- Binding Event Handlers
  // if in simple handleButton function we want to access this reference to current object it is not possible because it is standalone function and in js if function is standalone then it can't reference to object using this
@@ -275,7 +275,7 @@ student.talk(); // call the function of Person class
    this.handleButton = this.handleButton.bind();
  }
  // we can also use this if we declare the handleButton function as arrow function 
-  handleIncrement = () => {
+handleIncrement = () => {
   // use arrow function so that we can access reference to the object using this
   console.log("handle Increment", this);
 };
@@ -284,10 +284,12 @@ student.talk(); // call the function of Person class
  // because now we have access to this reference we can change the state of the object 
  // react has a function name setState which take as Parameter a expression 
  this.setState({newOrExistingState: newValue});
- this will set the state of this component
+ // this will set the state of this component
  
  (2:14)
- 35 13--- What Happens When State Changes
+ 34--- What Happens When State Changes
+ // in handleIncrement button when we change the state with setState function then the react engine re run the render method 
+ // after using setState function the corresponding state value in virtual DOM changes and react compare the virtual DOM with real browser DOM and see changes in virtual DOM and render them in real browser DOM
  
  (2:04)
  36 14--- Passing Event Arguments
