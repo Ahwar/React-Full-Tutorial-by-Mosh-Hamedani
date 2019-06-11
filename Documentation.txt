@@ -292,8 +292,23 @@ handleIncrement = () => {
  // after using setState function the corresponding state value in virtual DOM changes and react compare the virtual DOM with real browser DOM and see changes in virtual DOM and render them in real browser DOM
  
  (2:04)
- 36 14--- Passing Event Arguments
- 
+ 35--- Passing Event Arguments
+ // in the event lecture the function called in onClick event is passed by reference and we can not pass argument because it is called by reference
+ <button onClick={doHandleButton}></button>
+ // just to pass argument 
+ doHandleButton () => {handleButton({value: 1})}
+ // real function to act upon argument value
+ handleButton( value ) {
+   console.log("value", value);
+ }
+
+ // there is also another solution to use Inline function in where do you wanna pass argument
+<button
+  onClick={() => this.handleButton("fakfdj")}
+>
+handleButton( value ) {
+  console.log("value", value);
+}
  (3:04)
  37 15--- Setting Up the Vidly Project
  
