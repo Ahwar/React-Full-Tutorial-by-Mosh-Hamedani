@@ -36,10 +36,22 @@ class Movies extends Component {
         <td>{movie.dailyRentalRate}</td>
         <td>{movie.numberInStock}</td>
         <td>
-          <button className="btn btn-danger m-2">Delete</button>
+          <button
+            onClick={() => this.handleMovieDelete(movie._id)}
+            className="btn btn-danger m-2"
+          >
+            Delete
+          </button>
         </td>
       </tr>
     ));
+  }
+  handleMovieDelete(movieId) {
+    let filteredMovies = this.state.movies.filter(
+      // return all the movies array except that movie whoes id is passed to handleMovieDelete method
+      movie => movie._id !== movieId
+    );
+    this.setState({ movies: filteredMovies }); // set all movies list to state after the movie is removed from list
   }
 }
 

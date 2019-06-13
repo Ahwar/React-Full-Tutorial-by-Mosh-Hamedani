@@ -327,8 +327,10 @@ handleButton( value ) {
  // iterate over the movies data array and render the name and other data as table rows and delete button to delete the movie from the list
  
  (7:18)
- 40 18--- Deleting a Movie
- 
+ 39--- Deleting a Movie
+ // add delete button 
+ // onClick the current movie id is passed as argument and filter method return all the movies list except the movie item whose id matches to that id passed before and set this new movie list to state and table changes when state changes
+  
  (5:18)
  41 19--- Conditional Rendering
  
