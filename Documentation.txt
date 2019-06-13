@@ -322,7 +322,9 @@ handleButton( value ) {
  // first show the movies as a list 
  // then show the delete button and on click delete perticular movie from the list
  (3:25)
- 39 17--- Building the Movies Component
+ 38--- Building the Movies Component
+ // set movies data as state of movies component
+ // iterate over the movies data array and render the name and other data as table rows and delete button to delete the movie from the list
  
  (7:18)
  40 18--- Deleting a Movie
