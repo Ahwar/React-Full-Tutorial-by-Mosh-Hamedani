@@ -318,8 +318,9 @@ handleButton( value ) {
  
  
  (5:38)
- 38 16--- Exercises
- 
+ 37--- Exercises
+ // first show the movies as a list 
+ // then show the delete button and on click delete perticular movie from the list
  (3:25)
  39 17--- Building the Movies Component
  
