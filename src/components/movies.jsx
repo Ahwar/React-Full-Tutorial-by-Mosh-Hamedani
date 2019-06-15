@@ -7,9 +7,21 @@ class Movies extends Component {
   };
 
   render() {
+    const count = this.state.movies.length;
+
+    if (count === 0)
+      return (
+        <React.Fragment>
+          <h1>Movies</h1>
+          <p>There are no movies in database</p>
+        </React.Fragment>
+      );
+    // if previous return statement does not execute then the second one will automatically executed if
+    // if previous return statement execute then the second one will not be executed
     return (
       <React.Fragment>
         <h1>Movies</h1>
+        <p>There are {count} movies in database</p>
         <table className="table">
           {/* { table heading} */}
           <thead>

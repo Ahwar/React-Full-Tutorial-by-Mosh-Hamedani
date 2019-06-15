@@ -332,7 +332,21 @@ handleButton( value ) {
  // onClick the current movie id is passed as argument and filter method return all the movies list except the movie item whose id matches to that id passed before and set this new movie list to state and table changes when state changes
   
  (5:18)
- 41 19--- Conditional Rendering
+ 40--- Conditional Rendering
+ // conditional rendering is rendering some jsx when a condition is true or false 
+ you cannot use one or more if else condition in jsx expression but you can use if else to return Different jsx expression if one condition is true and other if other condition is true
+ for example 
+ render() {
+   if (true) {
+     return <h1>This is true</h1>
+   }
+   if (false) {
+     return <h1>This is false</h1>
+   }
+ }
+ if two or more Expressions are seperated by and ( && ) operator then the js vm return output of last Expressions
+ true && 'string' && "jfskdfj"
+ output : "jfskdfj"
  
  (3:26)
  42 20 --- Summary
