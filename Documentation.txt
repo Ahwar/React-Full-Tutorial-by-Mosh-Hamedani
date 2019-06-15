@@ -349,10 +349,22 @@ handleButton( value ) {
  output : "jfskdfj"
  
  (3:26)
- 42 20 --- Summary
+ 41 --- Summary
+ // We have learned so far is 
+ // jsx
+ // rendering Lists 
+ Conditional rendering
+ handling Events
+ // Updating the State
  
  (0:36)
- 43 1--- Introduction
+ 42--- Introduction
+ // in this section we will learned
+ // Pass Data
+ // Raise and Handle Events
+ // Multiple Components in sync
+ // Functional Components
+ // Lifecycle Hooks
  
  (0:45)
  44 2--- Composing Components
