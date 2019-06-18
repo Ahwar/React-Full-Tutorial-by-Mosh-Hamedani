@@ -8,13 +8,13 @@ class Counter extends Component {
   // }
   state = {
     // state to hold data about any component
-    count: 0,
-    tags: ["tag1", "tag2", "tag3"]
+    count: 0
+    // tags: ["tag1", "tag2", "tag3"]
   };
 
   render() {
     return (
-      <React.Fragment>
+      <div>
         <span className={this.getBadgeClasses()}>{this.formatCount()}</span>
         <button
           onClick={this.handleIncrement}
@@ -22,8 +22,8 @@ class Counter extends Component {
         >
           Increment
         </button>
-        {this.renderTags()}
-      </React.Fragment>
+        {/* {this.renderTags()} */}
+      </div>
     );
   }
 
@@ -31,6 +31,7 @@ class Counter extends Component {
     // use arrow function so that we can access reference to the object using this
     this.setState({ count: this.state.count + 1 });
   };
+  /*
   renderTags() {
     if (this.state.tags.length === 0) return <p>there is not tag</p>;
     return (
@@ -41,6 +42,7 @@ class Counter extends Component {
       </ul>
     );
   }
+  */
   // check the state count property and return value according to that value
   formatCount() {
     const { count } = this.state;

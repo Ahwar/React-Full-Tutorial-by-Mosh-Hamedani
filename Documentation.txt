@@ -367,8 +367,14 @@ handleButton( value ) {
  // Lifecycle Hooks
  
  (0:45)
- 44 2--- Composing Components
- 
+ 43--- Composing Components
+ // so far we have learned to make a single component and use this to render Content 
+ // but we can declare two or more components and use them as parent and child of each one 
+ // now we will create a new component name Counters which holds other counter components as his childs
+ // create a new Counters component
+ // in counters component counters state contains object having data about all counters in object array i.e id and value
+ // then in counters component we map the this.state.counters object array as counter components
+
  (3:45)
  45 3--- Passing Data to Components
  
