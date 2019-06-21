@@ -385,7 +385,13 @@ handleButton( value ) {
  //output: { name: "michael", job: "DA" }
  
  (3:11)
- 46 4--- Passing Children
+ 45--- Passing Children 
+ //you can pass a children component in any react component 
+ //and you can get children got passed inside component definition by using this.props.children
+ <Text name="michael" job="DA">
+  <p>aksfjksdfjkds </p>
+ </Text>
+ in the definition of Text we can access all children by using this.props.children
  
  (3:10)
  47 5 --- Debugging React Apps
