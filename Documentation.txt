@@ -431,8 +431,11 @@ handleButton( value ) {
  // set this new array as the state named counters
  
  (4:38)
- 51 9--- Single Source of Truth
- 
+ 50--- Single Source of Truth
+ // now we wanted to reset values of all counter components when reset is clicked so when the reset button is clicked then we changes all the values of counters object array values to zero
+ // this changes all the counters array but it does not initialize the value of single individual counter component because it set values to component once when it is initialized
+ // we have to collect all the counters objects data into  one component and change that state when we want to change the values
+ // let's see that in next lecture
  (3:55)
  52 10--- Removing the Local State
  
