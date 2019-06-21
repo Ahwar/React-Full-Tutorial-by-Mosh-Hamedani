@@ -402,7 +402,9 @@ handleButton( value ) {
  in console you can enter $r to work on selected lline of code in react developer tools tab
  
  (4:09)
- 48 6--- Props vs State
+ 47--- Props vs State
+ // Prop is the data which is passed to children but state is the data which is local to a component
+ // state is editable by component itself but props is read only an component can not change it
  
  (2:24)
  49 7 --- Raising and Handling Events
