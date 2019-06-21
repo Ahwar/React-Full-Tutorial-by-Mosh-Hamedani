@@ -19,15 +19,20 @@ class Counters extends Component {
             <Counter
               key={counter.id}
               value={counter.value}
-              onDelete={this.handleDelete}
+              onDelete={() => this.handleDelete(counter.id)}
             />
           );
         })}
       </div>
     );
   }
-  handleDelete = () => {
-    console.log("Delete Button Clicked");
+  handleDelete = (counterId) => {
+    let filteredCounters = this.state.counters.filter(
+      // return all the counters array except that counter whoes id is passed to handleMovieDelete method
+       counter => counter.id !== counterId
+    );
+    console.log(filteredCounters);
+    this.setState({ counters: filteredCounters }); // set all counters list to state after the counter is removed from list
   };
 }
 

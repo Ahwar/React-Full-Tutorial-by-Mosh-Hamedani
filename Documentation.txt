@@ -425,7 +425,10 @@ handleButton( value ) {
  
  
  (4:52)
- 50 8--- Updating the State
+ 49--- Updating the State
+ enter the id of counter component who's delete button is clicked as argument to handleDelete function
+ use the filter function and filter the object of that id from the array of counters
+ // set this new array as the state named counters
  
  (4:38)
  51 9--- Single Source of Truth
