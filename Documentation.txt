@@ -376,7 +376,13 @@ handleButton( value ) {
  // then in counters component we map the this.state.counters object array as counter components
 
  (3:45)
- 45 3--- Passing Data to Components
+ 44--- Passing Data to Components
+ // every components in reactJS have a property called props which is an object which contains information about all the attributes passed in this component 
+ for example
+ <Text name="michael" job="DA"/>
+ //in the definition of Text component we can access all the attributes of Text component by calling 
+ console.log(this.props)
+ //output: { name: "michael", job: "DA" }
  
  (3:11)
  46 4--- Passing Children
