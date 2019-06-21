@@ -407,7 +407,22 @@ handleButton( value ) {
  // state is editable by component itself but props is read only an component can not change it
  
  (2:24)
- 49 7 --- Raising and Handling Events
+ 48 --- Raising and Handling Events
+ // there is that rule in react a component who owns a state should be the one who changes that state 
+ // some times in react a component raises and event handler but it has to change the state of another component then we can raise an event to another component
+ and other component can change it's state 
+ <C onClicking={this.handleClick}/>
+ in the definition of C component 
+ <button onClick={this.props.onClicking} // when button in C component is click then it pass the reference to this.props.onClicking
+ if we want to use the C component into another component
+ <D>
+  handleClick =()=> {
+    console.log('click button clicked')
+  }
+  <C onClicking={this.handleClick}/>
+ </D>
+ in the definition of D component we can use this.onClicking function and 
+ 
  
  (4:52)
  50 8--- Updating the State
