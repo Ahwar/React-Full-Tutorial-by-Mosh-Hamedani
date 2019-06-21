@@ -394,7 +394,12 @@ handleButton( value ) {
  in the definition of Text we can access all children by using this.props.children
  
  (3:10)
- 47 5 --- Debugging React Apps
+ 46 --- Debugging React Apps
+ https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
+ install react developer tools extension in your browser 
+ in chrome you can install it by upper link go to developer tools and open tab name react and you can inspect the react code 
+ // you can search it 
+ in console you can enter $r to work on selected lline of code in react developer tools tab
  
  (4:09)
  48 6--- Props vs State
