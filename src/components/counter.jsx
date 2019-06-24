@@ -6,18 +6,13 @@ class Counter extends Component {
   //   super();
   //   this.handleIncrement = this.handleIncrement.bind();
   // }
-  state = {
-    // state to hold data about any component
-    value: this.props.value
-    // tags: ["tag1", "tag2", "tag3"]
-  };
 
   render() {
     return (
       <div>
         <span className={this.getBadgeClasses()}>{this.formatValue()}</span>
         <button
-          onClick={this.handleIncrement}
+          onClick={this.props.onIncrement}
           className="btn btn-secondary btn-sm m-2"
         >
           Increment
@@ -33,10 +28,6 @@ class Counter extends Component {
     );
   }
 
-  handleIncrement = () => {
-    // use arrow function so that we can access reference to the object using this
-    this.setState({ value: this.state.value + 1 });
-  };
   /*
   renderTags() {
     if (this.state.tags.length === 0) return <p>there is not tag</p>;
@@ -51,13 +42,13 @@ class Counter extends Component {
   */
   // check the state value property and return value according to that value
   formatValue() {
-    const { value } = this.state;
+    const { value } = this.props;
     return value === 0 ? "zero" : value; // state value is 0 then return zero otherwise return the original value state
   }
   // return classes according to value of value state
   getBadgeClasses() {
     let classes = "badge m-2 badge-";
-    classes += this.state.value === 0 ? "warning" : "primary";
+    classes += this.props.value === 0 ? "warning" : "primary";
     return classes;
   }
 }

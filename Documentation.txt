@@ -437,7 +437,12 @@ handleButton( value ) {
  // we have to collect all the counters objects data into  one component and change that state when we want to change the values
  // let's see that in next lecture
  (3:55)
- 52 10--- Removing the Local State
+ 51--- Removing the Local State
+ // in in the previous problem we could not Increment or reset value of counters because there were value of counter coming from different components
+ // now we will remove the values from children component and move the state counter to parent counters component 
+ // so we will remove the local state of couter component and move it to parent component 
+ // then pass the value of counter individualy to each counter 
+ // so counter component is controlled component of counters component 
  
  (6:47)
  53 11--- Multiple Components in Sync
