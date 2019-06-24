@@ -445,8 +445,14 @@ handleButton( value ) {
  // so counter component is controlled component of counters component 
  
  (6:47)
- 53 11--- Multiple Components in Sync
- 
+ 52--- Multiple Components in Sync
+ // we will add a Navigation bar on the top of counters component which shows the number of all items in the cart 
+ // first create a new component name App
+ // which have two children NavBar and Counters
+ // NavBar show the total number of all the items in cart 
+ // and counters show all the counters 
+ // because counters and NavBar are sibling we have to lift the state up from counters component to app component 
+ // then we can pass the number of item in cart to NavBar as a prop 
  (5:53)
  54 12--- Lifting the State Up
  
