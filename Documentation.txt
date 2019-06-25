@@ -454,7 +454,9 @@ handleButton( value ) {
  // because counters and NavBar are sibling we have to lift the state up from counters component to app component 
  // then we can pass the number of item in cart to NavBar as a prop 
  (5:53)
- 54 12--- Lifting the State Up
+ 53--- Lifting the State Up
+ // in this move counters array to top component name App and pass this arrray as props to counters object and use it to render list of counter objects
+ // move all the Functions in app component 
  
  (5:36)
  55 13 --- Stateless Functional Components
