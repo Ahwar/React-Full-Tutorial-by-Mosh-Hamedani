@@ -459,7 +459,13 @@ handleButton( value ) {
  // move all the Functions in app component 
  
  (5:36)
- 55 13 --- Stateless Functional Components
+ 54 --- Stateless Functional Components
+ if there is a component like NavBar which has no state and member Methods we can declare that component as a function 
+ // in react language this is called as Stateless Functional component which has no state and function 
+ const Component = (props) => {
+   return <h1>{props.data}</h1>
+ }
+ // you can not access props via this.props you have to declare a Parameter named props react will automatically pass the props via these props argument
  
  (2:29)
  56 14--- Destructuring Arguments
