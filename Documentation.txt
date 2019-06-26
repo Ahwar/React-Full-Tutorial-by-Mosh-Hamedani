@@ -483,7 +483,10 @@ handleButton( value ) {
  // unmount phase is when a component is unmount or destroyed  it include one functions compoentDidUnmounted
   
  (1:38)
- 58 16 --- Mounting Phase
+ 57 --- Mounting Phase
+ // you can call function constructor to tell the browser what to do when component is constructed
+ // you can call function render to tell the browser what to do when component is rendered
+ // you can call function compoentDidMounted to tell the browser what to do when component is fully mounted
  
  (5:34)
  59 17--- Updating Phase

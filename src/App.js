@@ -2,6 +2,14 @@ import React, { Component } from "react";
 import Counters from "./components/counters";
 import NavBar from "./components/navBar";
 class App extends Component {
+  constructor(props) {
+    super(props);
+    console.log("App - Constructor");
+    // this.state = this.props
+  }
+  componentDidMount() {
+    console.log("App - Componentdidmounted");
+  }
   state = {
     counters: [
       // array to hold all counter's objects
@@ -12,6 +20,7 @@ class App extends Component {
     ]
   };
   render() {
+    console.log("App - Rendered");
     return (
       <React.Fragment>
         <NavBar count={this.state.counters.filter(c => c.value > 0).length} />
