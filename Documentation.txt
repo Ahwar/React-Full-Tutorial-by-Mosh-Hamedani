@@ -476,8 +476,12 @@ handleButton( value ) {
  console.log(value1)
  
  (2:00)
- 57 15 --- Lifecycle Hooks
- 
+ 56 --- Lifecycle Hooks
+ // every component in react go through some phases through it's Lifecycle 
+ // mount phase is when a component is created it include there functions constructor , render and compoentDidMounted
+ // update phase is when a component is updated it include two functions render and compoentDidUpdate
+ // unmount phase is when a component is unmount or destroyed  it include one functions compoentDidUnmounted
+  
  (1:38)
  58 16 --- Mounting Phase
  
