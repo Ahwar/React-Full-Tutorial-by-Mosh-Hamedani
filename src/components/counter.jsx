@@ -6,7 +6,9 @@ class Counter extends Component {
   //   super();
   //   this.handleIncrement = this.handleIncrement.bind();
   // }
-
+  componentWillUnmount() {
+    console.log("Counter - Component will unmount");
+  }
   render() {
     const { onIncrement, onDelete } = this.props;
     return (

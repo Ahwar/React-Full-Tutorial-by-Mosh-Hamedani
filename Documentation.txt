@@ -480,7 +480,7 @@ handleButton( value ) {
  // every component in react go through some phases through it's Lifecycle 
  // mount phase is when a component is created it include there functions constructor , render and compoentDidMounted
  // update phase is when a component is updated it include two functions render and compoentDidUpdate
- // unmount phase is when a component is unmount or destroyed  it include one functions compoentDidUnmounted
+ // unmount phase is when a component is unmount or destroyed  it include one functions componentWillUnmount
   
  (1:38)
  57 --- Mounting Phase
@@ -501,7 +501,11 @@ handleButton( value ) {
   prevProps and prevState are the argument passed to show previous props and previous state 
  
  (4:20)
- 60 18--- Unmounting Phase
+ 59--- Unmounting Phase
+ // unmount phase is when a component is unmount or destroyed  it include one functions componentWillUnmount
+ // when a compoent is deleted then the componentWillUnmount function get called 
+ // when a component is changed and props or state is changed and componentWillUnmount get called then before that compoentDidUpdate function also gets called because before deleting a compoent it is also updating this component or parent component
+
  
  (1:26)
  61 19--- Exercise--- Decrement Button
