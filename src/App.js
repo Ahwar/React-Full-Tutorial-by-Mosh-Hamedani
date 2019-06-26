@@ -24,7 +24,8 @@ class App extends Component {
       { id: 1, value: 1 },
       { id: 2, value: 4 },
       { id: 3, value: 2 },
-      { id: 4, value: 0 }
+      { id: 4, value: 8 },
+      { id: 5, value: 19 }
     ]
   };
   render() {
@@ -37,6 +38,7 @@ class App extends Component {
             counters={this.state.counters}
             onDelete={this.handleDelete}
             onIncrement={this.handleIncrement}
+            onDecrement={this.handleDecrement}
             onReset={this.resetValues}
           />
         </main>
@@ -57,7 +59,12 @@ class App extends Component {
     counters[index].value = counters[index].value + 1;
     this.setState({ counters: counters });
   };
-
+  handleDecrement = counter => {
+    let counters = [...this.state.counters];
+    let index = counters.indexOf(counter);
+    counters[index].value = counters[index].value - 1;
+    this.setState({ counters: counters });
+  };
   resetValues = () => {
     let newCounters = this.state.counters.map(counter => {
       counter.value = 0;

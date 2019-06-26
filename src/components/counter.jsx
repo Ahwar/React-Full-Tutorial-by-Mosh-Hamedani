@@ -10,17 +10,31 @@ class Counter extends Component {
     console.log("Counter - Component will unmount");
   }
   render() {
-    const { onIncrement, onDelete } = this.props;
+    const { onIncrement, onDecrement, onDelete, value } = this.props;
     return (
-      <div>
-        <span className={this.getBadgeClasses()}>{this.formatValue()}</span>
-        <button onClick={onIncrement} className="btn btn-secondary btn-sm m-2">
-          Increment
-        </button>
-        <button onClick={onDelete} className="btn btn-danger btn-sm m-2">
-          Delete
-        </button>
-        {/* {this.renderTags()} */}
+      <div className="row">
+        <div className="col-1">
+          <span className={this.getBadgeClasses()}>{this.formatValue()}</span>
+        </div>
+        <div className="col">
+          <button
+            onClick={onIncrement}
+            className="btn btn-secondary btn-sm m-1"
+          >
+            +
+          </button>
+          <button
+            onClick={onDecrement}
+            disabled={!value}
+            className="btn btn-secondary btn-sm m-1"
+          >
+            -
+          </button>
+          <button onClick={onDelete} className="btn btn-danger btn-sm m-1">
+            x
+          </button>
+          {/* {this.renderTags()} */}
+        </div>
       </div>
     );
   }

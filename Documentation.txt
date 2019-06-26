@@ -508,11 +508,13 @@ handleButton( value ) {
 
  
  (1:26)
- 61 19--- Exercise--- Decrement Button
- 
+ 60--- Exercise--- Decrement Button
+ // add a Decrement button when it is clicked then the value is decreased of counter
+ // if value of counter is zero then disable the Decrement button
+ // apply grid to counters to improve design 
  (1:05)
- 62 20--- Solution --- Decrement Button
- 
+ 61--- Solution --- Decrement Button
+ // the solution to all the above problems is done in this exercise
  (4:53)
  63 21--- Exercise--- Like Component
  
