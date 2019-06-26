@@ -10,6 +10,14 @@ class App extends Component {
   componentDidMount() {
     console.log("App - Componentdidmounted");
   }
+  componentDidUpdate(prevProps, prevState) {
+    console.log("the component is updated");
+    console.log("Previous Props are : ", prevProps);
+    console.log("Previous State is : ", prevState);
+    if (prevState !== this.props) {
+      // do the ajax call to upload new data
+    }
+  }
   state = {
     counters: [
       // array to hold all counter's objects

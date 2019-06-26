@@ -489,7 +489,16 @@ handleButton( value ) {
  // you can call function compoentDidMounted to tell the browser what to do when component is fully mounted
  
  (5:34)
- 59 17--- Updating Phase
+ 58--- Updating Phase
+ // update phase is when a component is updated it include two functions render and compoentDidUpdate
+ componentDidUpdate(prevProps, prevState) {
+    console.log("the component is updated");
+    console.log("Previous Props are : ", prevProps);
+    console.log("Previous State is : ", prevState);
+    if (prevState !== this.props)
+    {// do the ajax call to upload new data}
+  }
+  prevProps and prevState are the argument passed to show previous props and previous state 
  
  (4:20)
  60 18--- Unmounting Phase
