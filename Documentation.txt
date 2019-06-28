@@ -522,11 +522,19 @@ handleButton( value ) {
  63--- Solution--- Like Component
  
  (12:26)
- 65 23--- Summary
+ 64--- Summary
+ // in this lecture we learned so far :
+ // how to use props to pass data to component
+ // Raising and Handling Events
+ // Lifting the State
+ // Functional components
+ // Lifecycle Hooks
  
  (0:42)
- 66 1--- Introduction
- 
+ 65--- Introduction
+ // in this lesson we are going to work on 
+ // Pagination, Filtering and Sorting
+ // we will also learn how to write less and effective code
  (1:08)
  67 2--- Exercise--- Pagination Component
  
