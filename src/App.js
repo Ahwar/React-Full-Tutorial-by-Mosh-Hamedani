@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import Counters from "./components/counters";
 import NavBar from "./components/navBar";
+import Movies from "./components/movies";
 class App extends Component {
   constructor(props) {
     super(props);
@@ -41,6 +42,7 @@ class App extends Component {
             onDecrement={this.handleDecrement}
             onReset={this.resetValues}
           />
+          <Movies />
         </main>
       </React.Fragment>
     );

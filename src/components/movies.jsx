@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import Like from "./extras/Like";
 import { getMovies } from "../services/fakeMovieService"; // importing data of movies
 
 class Movies extends Component {
@@ -30,6 +31,8 @@ class Movies extends Component {
               <th>Genre</th>
               <th>Stock</th>
               <th>Rate</th>
+              <th />
+              <th />
             </tr>
           </thead>
           {/* table body */}
@@ -45,8 +48,11 @@ class Movies extends Component {
       <tr key={movie._id}>
         <td>{movie.title}</td>
         <td>{movie.genre.name}</td>
-        <td>{movie.dailyRentalRate}</td>
         <td>{movie.numberInStock}</td>
+        <td>{movie.dailyRentalRate}</td>
+        <td>
+          <Like liked={movie.liked} onClicked={() => this.handleLike(movie)} />
+        </td>
         <td>
           <button
             onClick={() => this.handleMovieDelete(movie._id)}
@@ -57,6 +63,12 @@ class Movies extends Component {
         </td>
       </tr>
     ));
+  }
+  handleLike(movieObj) {
+    let mvs = [...this.state.movies];
+    let idx = mvs.indexOf(movieObj);
+    mvs[idx].liked = !mvs[idx].liked;
+    this.setState({ movies: mvs });
   }
   handleMovieDelete(movieId) {
     let filteredMovies = this.state.movies.filter(

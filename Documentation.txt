@@ -516,10 +516,10 @@ handleButton( value ) {
  61--- Solution --- Decrement Button
  // the solution to all the above problems is done in this exercise
  (4:53)
- 63 21--- Exercise--- Like Component
+ 62--- Exercise--- Like Component
  
  (1:44)
- 64 22--- Solution--- Like Component
+ 63--- Solution--- Like Component
  
  (12:26)
  65 23--- Summary
